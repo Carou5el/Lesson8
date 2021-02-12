@@ -24,6 +24,7 @@ public class Main {
 		createFile(fileName3, inputStr1);
 	}
 	
+	
 	public static String readNAppend(String filename) {
 		
 		File file = new File(filename);
